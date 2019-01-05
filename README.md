@@ -21,7 +21,7 @@
 <img width="80%" src="https://raw.githubusercontent.com/yeganehha/payping-insatll-help-asset-/master/plugins-j2store/installAddress.PNG"/>
 </p>
 <p dir="rtl">
-سپس اخرین نسخه از افزونه پی پینگ ویژه پرستاشاپ را 
+سپس اخرین نسخه از افزونه پی پینگ ویژه J2Store را 
 <a href="https://github.com/payping/plugins-j2store/releases/latest">«از این جا»</a>
  دریافت کنید 
 </p>
