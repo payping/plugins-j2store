@@ -66,7 +66,7 @@ class plgJ2StorePayment_payping extends J2StorePaymentPlugin
 		$vars->display_name = 'payping';
 		$vars->token = $this->params->get('token', '');
 		$vars->currency = $this->params->get('currency', '');
-		if ($vars->merchant_id == null || $vars->merchant_id == ''){
+		if ($vars->token == null || $vars->token == ''){
 			$link = JRoute::_(JURI::root(). "index.php?option=com_j2store" );
 			$app->redirect($link, '<h2>لطفا تنظیمات درگاه پی‌پینگ ویژه j2store را بررسی کنید</h2>', $msgType='Error');
 		}
