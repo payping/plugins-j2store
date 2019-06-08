@@ -11,9 +11,6 @@
 
 defined('_JEXEC') or die('Restricted access');
 ?>
-
-<form action="<?php echo @$vars->paypingGoUrl; ?>" method="get" >
 	<p>درگاه پی‌پینگ</p>
 	<br />
-    <input type="submit" class="j2store_cart_button button btn btn-primary" value="<?php echo JText::_($vars->button_text); ?>" />
-</form>
+	<a class="j2store_cart_button button btn btn-primary" href="<?php echo @$vars->paypingGoUrl; ?>" ><?php echo JText::_($vars->button_text); ?></a>
