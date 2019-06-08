@@ -8,7 +8,7 @@
 	<license>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU/GPL version 2</license>
 	<authorEmail>me@erfanebrahimi.ir</authorEmail>
 	<authorUrl>http://www.erfanebrahimi.ir</authorUrl>
-	<version>1.0.0</version>
+	<version>1.0.2</version>
 	<description>پلاگین پرداخت جی۲ برای پی‌پینگ</description>
 	<config>
 		<fields name="params">
